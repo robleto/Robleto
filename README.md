@@ -1,6 +1,6 @@
 ## Greg Robleto, Designer / Coder / CSS Artist, working remotely from Rockville, Maryland
 
-![gitback](https://cdn.dribbble.com/userupload/3257775/file/original-6fb8fc53cd50c9582d7608ad7f4eacec.png?compress=1&resize=1504x1003)
+![gitback](https://cdn.dribbble.com/userupload/16195134/file/original-a9974f32d5e808e38bb7eb7d67dd8488.png?resize=1508x652)
 
 Hello there 👋, thanks for visiting my Github profile.
 
