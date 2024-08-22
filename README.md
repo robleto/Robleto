@@ -1,10 +1,8 @@
 ![gitback](https://cdn.dribbble.com/userupload/16195176/file/original-e79a5b39e6f3da18ee1087b93debfd01.png?resize=1504x798)
 
-Hello there 👋, thanks for visiting my Github profile.
+Hello there 👋, thanks for visiting my GitHub profile.
 
-I’m Greg, a Director of Design with over 20 years of experience in fintech. I love collaborating on new ideas, designing and developing products that grow businesses and delight users. I am passionate about building up my team of designers and developers and wish I could share all the work we've done, but alas it's all tucked away in private company repos. 
-
-What you can find here is my personal collection of small projects that I work on in my downtime for fun and to keep my skills sharp. I've used these experiments to better learn React, Next, APIs and how to use Generative AI to collaborate on the coding. My coding  background is primary in CSS and I have built up a collection of single-div CSS art. I generally work in Figma and VS Code.
+I’m Greg, a Director of Design with over 20 years of experience in fintech. I’m passionate about collaborating on new ideas, designing and developing products that grow businesses and delight users. While most of my work is tucked away in private company repos, what you’ll find here is a personal collection of small projects I work on in my downtime to keep my skills sharp and have some fun. These experiments have helped me dive deeper into React, Next.js, APIs, and using Generative AI in coding. My core strength is in CSS, and I've built a collection of single-div CSS art. I usually work in Figma and VS Code.
 
 - 🖥️ Projects and portfolio at <a href="https://robleto.com">robleto.com</a> 
 - 🎨 CSS Art collection and other experiments on <a href="https://codepen.io/robleto/">Codepen</a>  
