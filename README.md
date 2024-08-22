@@ -6,10 +6,10 @@ I’m Greg, a Director of Design with over 20 years of experience in fintech. I 
 
 What you can find here is my personal collection of small projects that I work on in my downtime for fun and to keep my skills sharp. I've used these experiments to better learn React, Next, APIs and how to use Generative AI to collaborate on the coding. My coding  background is primary in CSS and I have built up a collection of single-div CSS art. I generally work in Figma and VS Code.
 
-- Projects and portfolio at <a href="https://robleto.com">robleto.com</a> 🖥️ 
-- CSS Art collection and other experiments on <a href="https://codepen.io/robleto/">Codepen</a> 🎨 
-- Sharing thoughts and updates on <a href="https://medium.com/@robleto">Medium</a> or <a href="https://www.linkedin.com/in/robleto">LinkedIn</a> 📝 
-- Want to know more? Let’s catch up and <a href="https://calendly.com/robleto">grab a coffee</a> ☕️ 
+- 🖥️ Projects and portfolio at <a href="https://robleto.com">robleto.com</a> 
+- 🎨 CSS Art collection and other experiments on <a href="https://codepen.io/robleto/">Codepen</a>  
+- 📝 Sharing thoughts and updates on <a href="https://medium.com/@robleto">Medium</a> or <a href="https://www.linkedin.com/in/robleto">LinkedIn</a>  
+- ☕️ Want to know more? Let’s catch up and <a href="https://calendly.com/robleto">grab a coffee</a>
 
 
 <!--
