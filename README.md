@@ -9,7 +9,7 @@ What you can find here is my personal collection of small projects that I work o
 Want to know more? Let’s catch up and grab a coffee. ☕
 
 
-- 🖥️ Projects and portfolio at <a href="https://robleto.com">robleto.com</a> 🖥️
+- 🖥️ Projects and portfolio at <a href="https://robleto.com">robleto.com</a>
 - 🎨 CSS Art collection and other experiments on <a href="https://codepen.io/robleto/">Codepen</a>
 - 🤔 Sharing thoughts and updates on <a href="https://medium.com/@robleto">Medium</a> or <a href="https://www.linkedin.com/in/robleto">LinkedIn</a>
 
