@@ -1,4 +1,4 @@
-![gitback](https://cdn.dribbble.com/userupload/16195134/file/original-a9974f32d5e808e38bb7eb7d67dd8488.png?resize=1508x652)
+![gitback](https://cdn.dribbble.com/userupload/16195176/file/original-ddc5f635aaecd446455160a355a0c5a7.png?resize=1508x832)
 
 Hello there 👋, thanks for visiting my Github profile.
 
