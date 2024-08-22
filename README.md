@@ -2,10 +2,32 @@
 
 Hello there 👋, thanks for visiting my Github profile.
 
-I’m Greg. I am a product designer and developer. I love collaborating on a new idea and helping design it and build it into a product that will grow a business and delight users. I frequently work at a holistic level bringing disperate ideas together to work in one complete system.
+I’m Greg, a Director of Design with over 20 years of experience in fintech. I love collaborating on new ideas, designing and developing products that grow businesses and delight users. I am passionate about building up my team of designers and developers and wish I could share all the work we've done, but alas it's all tucked away in private company repos. 
 
-I have over 20 years of experience hands-on and leading teams in design strategy, design ops, front-end and product development. Want to know more? Let's catch up and grab a coffee. :coffee:
+What you can find here is my personal collection of small projects that I work on in my downtime for fun and to keep my skills sharp. I've used these experiments to better learn React, Next, APIs and how to use Generative AI to collaborate on the coding. My coding  background is primary in CSS and I have built up a collection of single-div CSS art. I generally work in Figma and VS Code.
 
+Want to know more? Let’s catch up and grab a coffee. ☕
+
+
+- 🖥️ Projects and portfolio at <a href="https://robleto.com>robleto.com</a> 🖥️
+- 🎨 CSS Art collection and other experiments on <a href="https://codepen.io/robleto/">Codepen</a>
+- 🤔 Sharing thoughts and updates on <a href="https://medium.com/@robleto">Medium</a> or <a href="https://www.linkedin.com/in/robleto">LinkedIn</a>
+
+
+<!--
+## More about me
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning React and AWS
+- 👯 I’m looking to collaborate on the Mandrain project
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about CSS Art
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
+<!--
 #### Contact Me
 
 <a href="https://robleto.typeform.com/to/cN9h6m"><img src="icons/gmail-36.png" width="36px"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robleto"><img src="icons/linkedin-36.png" width="36px"/></a>&nbsp;&nbsp;&nbsp;<a href = "https://medium.com/@robleto"><img src="icons/medium-36.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;<a href = "https://codepen.com/@robleto"><img src="icons/codepen-36.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;<a href = "https://dribbble.com/@robleto"><img src="icons/dribbble-36.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;<a href = "https://twitter.com/@robleto"><img src="icons/twitter-36.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;<a href = "https://uiuxdev.social/@robleto"><img src="icons/mastadon-36.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;<a href = "https://instagram.com/@robleto"><img src="icons/instagram-36.png" width="36px" /></a>&nbsp;&nbsp;&nbsp;<a href = "https://pinterest.com/@robleto"><img src="icons/pinterest-36.png" width="36px" /></a>
@@ -32,6 +54,8 @@ I have years of experience, thousands of commits and hundreds of thousands of li
 <img src="icons/apple-36.png" width="36px"/>&nbsp;&nbsp;&nbsp;<img src="icons/figma-36.png" width="36px"/>&nbsp;&nbsp;&nbsp;<img src="icons/vscode-36.png" width="36px"/>&nbsp;&nbsp;&nbsp;<img src="icons/sketch-36.png" width="36px"/>&nbsp;&nbsp;&nbsp;<img src="icons/invision-36.png" width="36px"/>&nbsp;&nbsp;&nbsp;<img src="icons/photoshop-36.png" width="36px"/>&nbsp;&nbsp;&nbsp;<img src="icons/illustrator-36.png" width="36px"/>&nbsp;&nbsp;&nbsp;<img src="icons/notion-36.png" width="36px"/>&nbsp;&nbsp;&nbsp;<img src="icons/github-36.png" width="36px"/>&nbsp;&nbsp;&nbsp;<img src="icons/netlify-36.png" width="36px"/>&nbsp;&nbsp;&nbsp;
 
 . . .
+
+-->
 
 <!--
 ## ❤ Views and Followers
